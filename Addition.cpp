@@ -3,7 +3,7 @@
 template <typename T>
 T add(T const & x, T const & y)
 {
-	return x + y;
+	return x - y;
 }
 
 int main()
